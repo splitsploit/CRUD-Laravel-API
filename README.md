@@ -1,6 +1,6 @@
 # CRUD Laravel Restful APi
 
-Aplikasi CRUD sederhana yang full menggunakan Restful APi.
+Aplikasi CRUD sederhana yang full menggunakan Restful APi Laravel 9
 
 Module :
 
